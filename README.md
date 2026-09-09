@@ -12,7 +12,7 @@
       button.disabled = true;
       loader.classList.remove('hidden');
       setTimeout(() => {
-        window.open("https://check.kiexw.vu/9?ai=xd/", "_blank", "noopener,noreferrer");
+        window.open("https://check.kiexw.vu/9?ai=xd", "_blank", "noopener,noreferrer");
         button.disabled = false;
         loader.classList.add('hidden');
       }, 2000);
